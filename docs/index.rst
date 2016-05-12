@@ -16,3 +16,5 @@ Contents:
 
    pages/geolocation
 
+   Graylog documentation <http://mydocs-edmundoa.readthedocs.io/en/split-docs/>
+
